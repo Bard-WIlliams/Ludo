@@ -1,0 +1,6 @@
+{
+  "name": "Nordic Ludo",
+  "description": "Minimalist Scandinavian PvP Ludo tabletop game for 2-4 players with 2v2 adjacent-corner team mode and LAN multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
